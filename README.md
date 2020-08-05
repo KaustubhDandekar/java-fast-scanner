@@ -7,15 +7,15 @@ reading java primitive data types.
 ## Performance
 > `Scanner` typically has very high execution time and hence squeezes the `BufferedReader` and `FastScanner` graph to bottom. So for better visibility, Scanner data is excluded from the graph. 
 
-#### &emsp; String Read Performance &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Long Read Performance
-
-<img align="left" width="403" height="302" src="https://github.com/KaustubhDandekar/java-fast-scanner/blob/master/benchmark/images/string_read_benchmark.PNG" alt="String Read Benchmark" title="Optional title">
+#### &emsp; String Read Performance 
+<img width="403" height="302" alt="String Read Benchmark" src="https://github.com/KaustubhDandekar/java-fast-scanner/blob/master/benchmark/images/string_read_benchmark.PNG" />
  
-<img align="right" width="403" height="302" src="https://github.com/KaustubhDandekar/java-fast-scanner/blob/master/benchmark/images/long_benchmark.PNG" alt="Long Benchmark">
+#### &emsp; Long Read Performance
+<img width="403" height="302" alt="Long Read Benchmark" src="https://github.com/KaustubhDandekar/java-fast-scanner/blob/master/benchmark/images/long_benchmark.PNG" />
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
 #### &emsp; Double Read Performance
-<img width="403" height="302" style="border:1px solid grey" src="https://github.com/KaustubhDandekar/java-fast-scanner/blob/master/benchmark/images/double_benchmark.PNG" alt="Double Benchmark">
+<img width="403" height="302" alt="Double Read Benchmark" src="https://github.com/KaustubhDandekar/java-fast-scanner/blob/master/benchmark/images/double_benchmark.PNG" />
+
 
 ## Usage
 
